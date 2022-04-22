@@ -29,6 +29,7 @@ namespace ConsoleApp1
                         Console.WriteLine(user.Introduce());
                     }
                 }
+
                 if (opcja == "2")
                 {
                     Console.WriteLine("Podaj swoje ID");
